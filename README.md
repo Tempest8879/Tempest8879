@@ -1,157 +1,63 @@
-<div align="center">
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Game+Developer;Web+Developer;Full+Stack)
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C084FC,100:60A5FA&height=220&section=header&text=✨%20Welcome%20to%20My%20World%20✨&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=꒰ᐢ.%20.ᐢ꒱%20~%20Game%20Developer%20%7C%20Dreamer%20%7C%20Creator&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+# Hi, I'm Benjamin 👋
 
-<!-- Cute Anime Girl GIF -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-
-### `꒰ ˶• ༝ •˶ ꒱ ♡ Konnichiwa, I'm Tempest!`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%8C%B8+Making+games+that+touch+hearts+%F0%9F%8C%B8;%E2%9C%A8+One+line+of+code+at+a+time+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-<!-- Kawaii Divider -->
-`·····•••✦ 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 ✦•••·····`
-
-</div>
+💻 Full Stack Developer
+🚀 Passionate about Video Games, and minor interest in Web Applications
+🎓 Diploma in Information Technology – STI College
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/SSSBl5RuYgNBBKjPe3/giphy.gif" width="180"/>
+## 🚀 Tech Stack
 
-```yaml
-🌸 Name: Tempest
-🎮 Role: Game Developer
-🌏 Region: Philippines 🇵🇭
-💜 Engine: Unity
-🎵 Current Project: HIRAYA — A Visual Novel Rhythm Game
-🌙 Dream: Creating games that make people feel something ♡
-```
+### Game Development Platform
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<br clear="right"/>
+### Backend
+![Java](https://img.shields.io/badge/Java-SpringBoot-red?style=for-the-badge&logo=springboot)
+![PHP](https://img.shields.io/badge/PHP-Laravel-red?style=for-the-badge&logo=laravel)
 
-<div align="center">
-
-<!-- Kawaii Divider -->
-`·····•••✦ 𝒲𝒽𝒶𝓉 𝐼'𝓂 𝒲𝑜𝓇𝓀𝒾𝓃𝑔 𝒪𝓃 ✦•••·····`
-
-</div>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 
 ---
 
-<div align="center">
+## 📌 Featured Projects
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="160"/>
+### 🧠 IntelliQuiz
+Real-time quiz system with live scoring and interactivity  
+*Tech:* React, TypeScript, Spring Boot, Docker  
 
-</div>
+### ⏱ Pomodify
+Full-stack Pomodoro timer web application  
+*Tech:* Angular, Spring Boot, PostgreSQL, AWS  
 
-### 🌺 HIRAYA — *Where Music Meets Memory*
-
-> *A desktop visual novel rhythm game that weaves Filipino cultural heritage*
-> *with modern gameplay — telling the story of love through harana (serenading) 🎶*
-
-<table>
-<tr>
-<td>🎵 <b>Rhythm Gameplay</b> — Multi-lane note system with Normal & Hard difficulties</td>
-<td>📖 <b>Visual Novel</b> — Story of an elderly couple recalling their courtship</td>
-</tr>
-<tr>
-<td>🌏 <b>Bilingual</b> — Full English & Tagalog language support</td>
-<td>🔥 <b>Fever Rush</b> — Hit combos to unleash 30x score multipliers!</td>
-</tr>
-</table>
-
-<div align="center">
-
-<!-- Kawaii Divider -->
-`·····•••✦ 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀 ✦•••·····`
-
-</div>
+### 🏦 StackOvercash
+Banking system with authentication and security features  
+*Tech:* PHP, JavaScript, AWS  
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="160"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=tokyonight)
 
-<br/><br/>
-
-<!-- Tech Stack Badges with Pink/Purple Theme -->
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<div align="center">
-
-<!-- Kawaii Divider -->
-`·····•••✦ 𝒢𝒾𝓉𝐻𝓊𝒷 𝒮𝓉𝒶𝓉𝓈 ✦•••·····`
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=tokyonight)
 
 ---
 
-<div align="center">
+## 🐍 Contribution Activity
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCJ8dR3SE/giphy.gif" width="140"/>
-
-<br/><br/>
-
-<!-- GitHub Stats with Cute Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=FF6B9D&icon_color=C084FC&text_color=c9d1d9&border_color=FF6B9D&border_radius=15" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=FF6B9D&text_color=c9d1d9&border_color=FF6B9D&border_radius=15" height="170"/>
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&background=1a1b27&border=FF6B9D&stroke=FF6B9D&ring=C084FC&fire=FF6B9D&currStreakLabel=FF6B9D&sideLabels=C084FC&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border_radius=15" />
-
-</div>
-
-<div align="center">
-
-<!-- Kawaii Divider -->
-`·····•••✦ 𝒱𝒾𝒷𝑒𝓈 ✦•••·····`
-
-</div>
+![snake gif](https://github.com/mamasalanang-gerald/mamasalanang-gerald/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a1b27&color=FF6B9D&line=C084FC&point=60A5FA&area=true&area_color=C084FC&hide_border=false&custom_title=%E2%9C%A8%20My%20Contribution%20Garden%20%E2%9C%A8&border_color=FF6B9D&title_color=FF6B9D" width="95%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-kasan-mamasalanang-95a306386/)
 
-<br/><br/>
-
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS+♡)
-
-<br/><br/>
-
-<!-- Cute Anime Footer GIF -->
-<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="200"/>
-
-<br/>
-
-### ♡ *"Games are the most elevated form of investigation."* — Albert Einstein ♡
-
-<br/>
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:C084FC,100:FF6B9D&height=120&section=footer" width="100%"/>
-
-<!-- Secret Message -->
-<!-- ✨ Made with love, code, and way too much caffeine ☕ -->
-<!-- 🌸 If you're reading this, you're awesome! ♡ -->
+---

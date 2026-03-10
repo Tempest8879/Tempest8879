@@ -1,16 +1,16 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=DevOps+Engineer;Backend+Developer;Cloud+Automation+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Game+Developer;Web+Developer;Full+Stack)
 
-# Hi, I'm Gerald 👋
+# Hi, I'm Benjamin 👋
 
-💻 DevOps & Backend Developer  
-🚀 Passionate about Cloud Infrastructure, Automation, and Scalable Systems  
-🎓 Diploma in Information Technology – PUP Taguig  
+💻 Full Stack Developer
+🚀 Passionate about Video Games, and minor interest in Web Applications
+🎓 Diploma in Information Technology – STI College
 
 ---
 
 ## 🚀 Tech Stack
 
-### DevOps & Cloud
+### Game Development Platform
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -19,11 +19,6 @@
 ### Backend
 ![Java](https://img.shields.io/badge/Java-SpringBoot-red?style=for-the-badge&logo=springboot)
 ![PHP](https://img.shields.io/badge/PHP-Laravel-red?style=for-the-badge&logo=laravel)
-
-### Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)

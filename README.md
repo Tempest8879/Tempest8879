@@ -12,7 +12,7 @@
 
 <img align="right" width="45%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2000&pause=100000&color=00F7FF&repeat=true&width=280&height=35&lines=%E2%9A%A1+About+Me" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2000&pause=5000&color=00F7FF&repeat=true&width=280&height=35&lines=%E2%9A%A1+About+Me" alt="About Me" />
 <br><br>
 <samp>Full Stack Developer passionate about Video Games, Game Development, and Web Applications</samp>
 <br><br>
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=100000&color=00F7FF&center=true&vCenter=true&repeat=true&width=470&height=45&lines=%F0%9F%93%8C+Featured+Projects" alt="Featured Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=470&height=45&lines=%F0%9F%93%8C+Featured+Projects" alt="Featured Projects" />
 
 <table>
 <tr>
@@ -70,7 +70,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=100000&color=00F7FF&center=true&vCenter=true&repeat=true&width=350&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=350&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+
+<img align="center" width="35%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-pick-me.gif" />
 
 <table>
 <tr>
@@ -120,7 +122,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=100000&color=00F7FF&center=true&vCenter=true&repeat=true&width=450&height=45&lines=%F0%9F%93%8A+GitHub+Analytics" alt="GitHub Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=450&height=45&lines=%F0%9F%93%8A+GitHub+Analytics" alt="GitHub Analytics" />
 
 <img src="https://streak-stats.demolab.com?user=Tempest8879&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=888888" />
 
@@ -135,7 +137,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=100000&color=00F7FF&center=true&vCenter=true&repeat=true&width=420&height=45&lines=%F0%9F%8E%8C+Anime+Dev+Life" alt="Anime Dev Life" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=420&height=45&lines=%F0%9F%8E%8C+Anime+Dev+Life" alt="Anime Dev Life" />
 </div>
 
 <div align="center">
@@ -201,7 +203,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=535&lines=%E3%80%8C+Thanks+for+visiting!+See+you+in+the+next+commit+%E3%80%8D" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=535&lines=%E3%80%8C+Thanks+for+visiting!+%E3%80%8D" alt="Footer Typing" />
   <br>
   <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi.gif" width="600" />
 </div>

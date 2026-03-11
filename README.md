@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&random=false&width=650&height=100&lines=%E3%80%8C+Game+Dev+Enthusiast+%E3%80%8D;%E3%80%8C+Full+Stack+Developer+%E3%80%8D;%E3%80%8C+Anime+%2B+Code+%3D+Life+%E3%80%8D;%E3%80%8C+Always+Learning+%E3%80%8D" alt="Typing SVG" />
   </a>
   <br><br>
-  <img src="https://user-images.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-bocchi-the-rock.gif" width="480" />
+  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-bocchi-the-rock.gif" width="480" />
   <br><br>
 </div>
 
@@ -28,7 +28,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" width="100%"/>
 
 </td>
 </tr>
@@ -134,7 +134,7 @@
 <td width="45%" align="center" valign="middle">
 
 <!-- REPLACE WITH YOUR GIF: put your GIF URL below -->
-<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/YOUR-GIF-HERE.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-pick-me.gif" width="100%" />
 
 </td>
 </tr>
@@ -170,25 +170,25 @@
 
 <samp><b>When the code compiles on first try</b></samp>
 
-<img src="https://user-images.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-the-rock-bocchi.gif" width="200" />
+<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-angry.gif" width="200" />
 
-<samp><i>nani?!</i></samp>
+<samp><i>NANI??!!!</i></samp>
 
 </td>
 <td align="center" width="33%">
 
 <samp><b>Me debugging at 3 AM</b></samp>
 
-<img src="https://user-images.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-angry.gif" width="200" />
+<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-the-rock-bocchi.gif" width="200" />
 
-<samp><i>omae wa mou shindeiru</i></samp>
+<samp><i>AHHHHHHHHHHHH!!!</i></samp>
 
 </td>
 <td align="center" width="33%">
 
 <samp><b>Finally fixing that bug</b></samp>
 
-<img src="https://user-images.githubusercontent.com/Tempest8879/Tempest8879/main/assets/super-saiyan-soccer-coach.gif" width="200" />
+<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/kono-suba-anime.gif" width="200" />
 
 <samp><i>(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧</i></samp>
 
@@ -216,9 +216,9 @@
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/Tempest8879/Tempest8879/main/assets/nichijou-yukko.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/nichijou-yukko.gif" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br>
 
@@ -228,4 +228,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=535&lines=%E3%80%8C+Thanks+for+visiting!+See+you+in+the+next+commit+%E3%80%8D" alt="Footer Typing" />
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi.gif" />
+<img width="100%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi.gif" />

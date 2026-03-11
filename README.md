@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=350&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+<img align="top" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=350&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 
 <img align="center" width="28%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-pick-me.gif" />
 
@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=450&height=45&lines=%F0%9F%93%8A+GitHub+Analytics" alt="GitHub Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=450&height=45&lines=%F0%9F%93%8A+GitHub+Analytics" alt="GitHub Analytics" align="top" />
 
 <img src="https://streak-stats.demolab.com?user=Tempest8879&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=888888" />
 

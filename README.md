@@ -110,7 +110,7 @@
 
 <samp><b>🗄️ Databases</b></samp>
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="45" />
 
 </td>
 </tr>

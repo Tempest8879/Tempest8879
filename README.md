@@ -80,37 +80,37 @@
 
 <samp><b>💻 Languages</b></samp>
 
-<img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" />
-<img src="https://skillicons.dev/icons?i=cs" alt="C#" width="30" />
-<img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" />
-<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="30" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="36" />
+<img src="https://skillicons.dev/icons?i=cs" alt="C#" width="36" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="36" />
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="36" />
 
 </td>
 <td align="center" width="25%">
 
 <samp><b>🧠 Frameworks & Engines</b></samp>
 
-<img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="30" />
-<img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="30" />
+<img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="36" />
+<img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="36" />
 
 </td>
 <td align="center" width="25%">
 
 <samp><b>🔧 Tools & Platforms</b></samp>
 
-<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" />
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="30" />
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30" />
-<img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="30" />
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="30" />
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" />
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="36" />
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="36" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="36" />
+<img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="36" />
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="36" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="36" />
 
 </td>
 <td align="center" width="25%">
 
 <samp><b>🗄️ Databases</b></samp>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="36" />
 
 </td>
 </tr>

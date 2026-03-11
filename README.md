@@ -144,29 +144,29 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="30%">
 
 <samp><b>When the code compiles on first try</b></samp>
 <br>
-<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-angry.gif" width="200" />
+<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-angry.gif" width="100%" />
 <br>
 <samp><i>NANI??!!!</i></samp>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="30%">
 
 <samp><b>Me debugging at 3 AM</b></samp>
 <br>
-<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-the-rock-bocchi.gif" width="200" />
+<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-the-rock-bocchi.gif" width="100%" />
 <br>
 <samp><i>AHHHHHHHHHHHH!!!</i></samp>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="30%">
 
 <samp><b>Finally fixing that bug</b></samp>
 <br>
-<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/kono-suba-anime.gif" width="200" />
+<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/kono-suba-anime.gif" width="100%" />
 <br>
 <samp><i>(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧</i></samp>
 

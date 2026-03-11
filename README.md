@@ -4,13 +4,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&random=false&width=650&height=100&lines=%E3%80%8C+Game+Dev+Enthusiast+%E3%80%8D;%E3%80%8C+Full+Stack+Developer+%E3%80%8D;%E3%80%8C+Anime+%2B+Code+%3D+Life+%E3%80%8D;%E3%80%8C+Always+Learning+%E3%80%8D" alt="Typing SVG" />
   </a>
-  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-bocchi-the-rock.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-bocchi-the-rock.gif" width="800" />
   <br><br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<img align="right" width="45%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
+<img align="right" width="25%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2000&pause=5000&color=00F7FF&repeat=true&width=280&height=35&lines=%E2%9A%A1+About+Me" alt="About Me" />
 <br><br>
@@ -72,7 +72,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=350&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 
-<img align="center" width="35%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-pick-me.gif" />
+<img align="center" width="28%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-pick-me.gif" />
 
 <table>
 <tr>

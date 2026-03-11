@@ -4,16 +4,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&random=false&width=650&height=100&lines=%E3%80%8C+Game+Dev+Enthusiast+%E3%80%8D;%E3%80%8C+Full+Stack+Developer+%E3%80%8D;%E3%80%8C+Anime+%2B+Code+%3D+Life+%E3%80%8D;%E3%80%8C+Always+Learning+%E3%80%8D" alt="Typing SVG" />
   </a>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-bocchi-the-rock.gif" width="480" />
+  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-bocchi-the-rock.gif" width="600" />
   <br><br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<table width="100%" border="0">
-<tr>
-<td width="55%" valign="top">
+<img align="right" width="45%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2000&pause=100000&color=00F7FF&repeat=false&width=280&height=35&lines=%E2%9A%A1+About+Me" alt="About Me" />
 <br><br>
@@ -25,14 +22,7 @@
 <samp>📍 Based in the Philippines</samp><br>
 <samp>🎌 Anime fan who debugs with OSTs on max volume</samp>
 
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br clear="both" />
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />
 
@@ -40,105 +30,65 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=100000&color=00F7FF&center=true&vCenter=true&repeat=false&width=470&height=45&lines=%F0%9F%93%8C+Featured+Projects" alt="Featured Projects" />
 
-<table border="0">
-<tr>
-<td align="center" width="45%">
-
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/za-warudo-jojo-bizarre-adventure.gif" width="180"/>
-
+<br><br>
 <samp><b>🫆 Timesheet Face Recognition</b></samp>
 <br>
 <samp>Algorithm for face recognition integration on timesheet</samp>
+<br><br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-</td>
-<td align="center" width="45%">
+<br>
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/taiko-taiko-no-tatsujin.gif" width="180"/>
-
+<br><br>
 <samp><b>🎮 Hiraya</b></samp>
 <br>
 <samp>A visual novel rhythm game capstone project</samp>
+<br><br>
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![VS 2022](https://img.shields.io/badge/VS_2022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />
 
-<table width="100%" border="0">
-<tr>
-<td width="55%" valign="top">
-
-<div align="center">
+<img align="right" width="40%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-pick-me.gif" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=100000&color=00F7FF&center=true&vCenter=true&repeat=false&width=350&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+<br><br>
 
-<table border="0">
-<tr>
-<td align="center" width="50%">
+<samp><b>💻 Languages</b></samp><br>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+<br><br>
 
-<samp><b>💻 Languages</b></samp>
+<samp><b>🧠 Frameworks & Engines</b></samp><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" alt="Unity" width="55" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" alt=".NET" width="55" />
+<br><br>
 
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<samp><b>🔧 Tools & Platforms</b></samp><br>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="Linux" width="55" />
+<img src="https://techstack-generator.vercel.app/vs-code.svg" alt="VS Code" width="55" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" alt="Visual Studio" width="55" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" alt="Figma" width="55" />
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Git" width="55" />
+<br><br>
 
-</td>
-<td align="center" width="50%">
+<samp><b>🗄️ Databases</b></samp><br>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL Database" width="55" height="55" />
 
-<samp><b>🧠 Frameworks & Engines</b></samp>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" alt="Unity" width="65" />
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" alt=".NET" width="65" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<samp><b>🔧 Tools & Platforms</b></samp>
-
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="Linux" width="65" />
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" alt="VS Code" width="65" />
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" alt="Visual Studio" width="65" />
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" alt="Figma" width="65" />
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Git" width="65" />
-
-</td>
-<td align="center" width="50%">
-
-<samp><b>🗄️ Databases</b></samp>
-
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL Database" width="65" height="65" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<!-- REPLACE WITH YOUR GIF: put your GIF URL below -->
-<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-pick-me.gif" width="100%" />
-
-</td>
-</tr>
-</table>
+<br clear="both" />
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />
 
@@ -164,37 +114,27 @@
 
 <div align="center">
 
-<table border="0">
-<tr>
-<td align="center" width="33%">
-
 <samp><b>When the code compiles on first try</b></samp>
-
+<br>
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-angry.gif" width="200" />
-
+<br>
 <samp><i>NANI??!!!</i></samp>
 
-</td>
-<td align="center" width="33%">
+<br><br>
 
 <samp><b>Me debugging at 3 AM</b></samp>
-
+<br>
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-the-rock-bocchi.gif" width="200" />
-
+<br>
 <samp><i>AHHHHHHHHHHHH!!!</i></samp>
 
-</td>
-<td align="center" width="33%">
+<br><br>
 
 <samp><b>Finally fixing that bug</b></samp>
-
+<br>
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/kono-suba-anime.gif" width="200" />
-
+<br>
 <samp><i>(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧</i></samp>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -214,9 +154,9 @@
   <a href="https://instagram.com/tempest.8879">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="35" />
   </a>
+  <br>
+  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/nichijou-yukko.gif" width="500" />
 </div>
-
-<img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/nichijou-yukko.gif" width="100%" />
 
 <img src="https://raw.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
@@ -226,6 +166,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=535&lines=%E3%80%8C+Thanks+for+visiting!+See+you+in+the+next+commit+%E3%80%8D" alt="Footer Typing" />
+  <br>
+  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi.gif" width="600" />
 </div>
-
-<img width="100%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi.gif" />

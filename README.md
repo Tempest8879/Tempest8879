@@ -80,37 +80,37 @@
 
 <samp><b>💻 Languages</b></samp>
 
-<img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" />
-<img src="https://skillicons.dev/icons?i=cs" alt="C#" width="45" />
-<img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" />
-<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" />
+<img src="https://skillicons.dev/icons?i=cs" alt="C#" width="30" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" />
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="30" />
 
 </td>
 <td align="center" width="25%">
 
 <samp><b>🧠 Frameworks & Engines</b></samp>
 
-<img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="45" />
-<img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="45" />
+<img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="30" />
+<img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="30" />
 
 </td>
 <td align="center" width="25%">
 
 <samp><b>🔧 Tools & Platforms</b></samp>
 
-<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" />
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" />
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" />
-<img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="45" />
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" />
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" />
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" />
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="30" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30" />
+<img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="30" />
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="30" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" />
 
 </td>
 <td align="center" width="25%">
 
 <samp><b>🗄️ Databases</b></samp>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="30" />
 
 </td>
 </tr>
@@ -201,7 +201,7 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80%" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=535&lines=%E3%80%8C+Thanks+for+visiting!+%E3%80%8D" alt="Footer Typing" />
   <br>

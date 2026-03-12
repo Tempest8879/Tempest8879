@@ -10,9 +10,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+<div align="center">
+
 <img align="top" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2000&pause=5000&color=00F7FF&repeat=true&width=280&height=35&lines=%E2%9A%A1+About+Me" alt="About Me" />
 
-<img align="right" width="110" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
+<img align="center" width="110" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
 <br><br>
 <samp>Full Stack Developer passionate about Video Games, Game Development, and Web Applications</samp>
 <br><br>
@@ -23,6 +25,8 @@
 <samp>🎌 Anime fan who debugs with OSTs on max volume</samp>
 
 <br clear="both" />
+
+</div>
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />
 
@@ -64,13 +68,11 @@
 </tr>
 </table>
 
-<a href="https://github.com/Tempest8879?tab=repositories">
-<br>
-    <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/questbook1.gif" width="20%" />
-<br>
-</a>
-
 </div>
+
+<a href="https://github.com/Tempest8879?tab=repositories">
+    <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/questbook1.gif" width="20%" />
+</a>
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />
 

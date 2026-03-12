@@ -18,7 +18,11 @@
 
 </div>
 
-<img align="right" width="28%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
+
+
+<div align="center">
+<img align="center" width="28%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
+<div align="left">
 
 <samp>🎮 Game Dev & Full Stack enthusiast</samp><br>
 <samp>🚀 Building interactive experiences</samp><br>
@@ -28,6 +32,8 @@
 
 <br clear="both" />
 
+</div>
+</div>
 </div>
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />

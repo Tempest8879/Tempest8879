@@ -20,7 +20,7 @@
 
 <img align="right" width="28%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
 
-<div align="center">
+<div align="right">
 
 <div align="left">
 

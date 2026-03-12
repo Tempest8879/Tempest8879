@@ -205,7 +205,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="35" />
   </a>
   <br>
-  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/nichijou-yukko.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/nichijou-yukko.gif" width="400" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />
@@ -217,5 +217,5 @@
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=535&lines=%E3%80%8C+Thanks+for+visiting!+%E3%80%8D" alt="Footer Typing" />
   <br>
-  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi.gif" width="500" />
 </div>

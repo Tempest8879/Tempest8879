@@ -156,7 +156,7 @@
 
 <table>
 <tr>
-<td align="center" width="30%">
+<td align="center" width="28%">
 
 <samp><b>When the code compiles on first try</b></samp>
 <br>
@@ -165,7 +165,7 @@
 <samp><i>NANI??!!!</i></samp>
 
 </td>
-<td align="center" width="30%">
+<td align="center" width="28%">
 
 <samp><b>Me debugging at 3 AM</b></samp>
 <br>
@@ -174,7 +174,7 @@
 <samp><i>AHHHHHHHHHHHH!!!</i></samp>
 
 </td>
-<td align="center" width="30%">
+<td align="center" width="28%">
 
 <samp><b>Finally fixing that bug</b></samp>
 <br>

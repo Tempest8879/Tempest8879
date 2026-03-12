@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&random=false&width=650&height=100&lines=%E3%80%8C+Game+Dev+Enthusiast+%E3%80%8D;%E3%80%8C+Full+Stack+Developer+%E3%80%8D;%E3%80%8C+Anime+%2B+Code+%3D+Life+%E3%80%8D;%E3%80%8C+Always+Learning+%E3%80%8D" alt="Typing SVG" />
   </a>
-  <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-bocchi-the-rock.gif" width="800" />
+  <a><img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/bocchi-bocchi-the-rock.gif" width="800" /></a>
   <br><br>
 </div>
 
@@ -63,6 +63,12 @@
 </td>
 </tr>
 </table>
+
+<a href="https://github.com/Tempest8879?tab=repositories">
+<br>
+    <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/questbook1.gif" width="20%" />
+<br>
+</a>
 
 </div>
 
@@ -185,7 +191,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="35" />
   </a>
   &nbsp;
-  <a href="https://facebook.com/tempest.8879">
+  <a href="https://facebook.com/tempest.8800">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" height="35" />
   </a>
   &nbsp;

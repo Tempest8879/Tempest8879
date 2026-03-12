@@ -16,6 +16,8 @@
 
 <samp>Full Stack Developer passionate about Video Games, Game Development, and Web Applications</samp>
 
+<img align="center" width="28%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
+
 </div>
 
 <samp>🎮 Game Dev & Full Stack enthusiast</samp><br>
@@ -24,11 +26,7 @@
 <samp>📍 Based in the Philippines</samp><br>
 <samp>🎌 Anime fan who debugs with OSTs on max volume</samp>
 
-<img align="center" width="28%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
-
 <br clear="both" />
-
-</div>
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />
 

@@ -149,7 +149,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=420&height=45&lines=%F0%9F%8E%8C+Anime+Dev+Life" alt="Anime Dev Life" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=420&height=45&lines=%F0%9F%8E%8C+Dev+Life" alt="Dev Life" />
 </div>
 
 <div align="center">

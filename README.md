@@ -67,14 +67,15 @@
 </td>
 </tr>
 </table>
+
 <br>
 <a href="https://github.com/Tempest8879?tab=repositories">
-    <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/questbook2.gif" width="20%" />
+    <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/questbook2.gif" width="10%" /><br>
 </a>
-<samp>more</samp><br>
+<br>
+<samp>✨VIEW MORE✨</samp><br>
+
 </div>
-
-
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />
 

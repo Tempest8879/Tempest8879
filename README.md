@@ -19,7 +19,7 @@
 <img align="right" width="35%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
 
 </div>
-
+<br>
 <samp>Full Stack Developer passionate about Video Games, Game Development, and Web Applications</samp>
 <br><br>
 <samp>🎮 Game Dev & Full Stack enthusiast</samp><br>

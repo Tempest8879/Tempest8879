@@ -18,12 +18,6 @@
 
 </div>
 
-<img align="right" width="28%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
-
-<div align="right">
-
-<div align="left">
-
 <samp>🎮 Game Dev & Full Stack enthusiast</samp><br>
 <samp>🚀 Building interactive experiences</samp><br>
 <samp>🎓 Diploma in Information Technology – STI College</samp><br>
@@ -32,9 +26,7 @@
 
 <br clear="both" />
 
-</div>
-</div>
-</div>
+<img align="right" width="28%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />
 

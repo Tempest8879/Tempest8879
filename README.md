@@ -24,9 +24,9 @@
 <samp>📍 Based in the Philippines</samp><br>
 <samp>🎌 Anime fan who debugs with OSTs on max volume</samp>
 
-<br clear="both" />
-
 <img align="right" width="28%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
+
+<br clear="both" />
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />
 

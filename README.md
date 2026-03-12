@@ -165,7 +165,7 @@
 <samp><i>NANI??!!!</i></samp>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="10">
 
 <samp><b>Me debugging at 3 AM</b></samp>
 <br>

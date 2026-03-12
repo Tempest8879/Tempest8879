@@ -22,11 +22,11 @@
 
 <samp>Full Stack Developer passionate about Video Games, Game Development, and Web Applications</samp>
 <br><br>
-<samp>  🎮 Game Dev & Full Stack enthusiast</samp><br>
-<samp>  🚀 Building interactive experiences</samp><br>
-<samp>  🎓 Diploma in Information Technology – STI College</samp><br>
-<samp>  📍 Based in the Philippines</samp><br>
-<samp>  🎌 Anime fan who debugs with OSTs on max volume</samp>
+<samp>&emsp;&emsp;🎮 Game Dev & Full Stack enthusiast</samp><br>
+<samp>&emsp;🚀 Building interactive experiences</samp><br>
+<samp>🎓 Diploma in Information Technology – STI College</samp><br>
+<samp>📍 Based in the Philippines</samp><br>
+<samp>🎌 Anime fan who debugs with OSTs on max volume</samp>
 
 <br clear="both" />
 

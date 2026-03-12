@@ -174,7 +174,7 @@
 <samp><i>AHHHHHHHHHHHH!!!</i></samp>
 
 </td>
-<td align="center" width="100">
+<td align="center" width="50">
 
 <samp><b>Finally fixing that bug</b></samp>
 <br>

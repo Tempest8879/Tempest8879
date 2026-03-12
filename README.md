@@ -69,7 +69,7 @@
 </table>
 
 <a href="https://github.com/Tempest8879?tab=repositories">
-    <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/questbook2.gif" width="10%" />
+    <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/questbook1.gif" width="10%" />
 </a>
 <br>
 <samp>✨VIEW MORE✨</samp>

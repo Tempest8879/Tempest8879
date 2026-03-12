@@ -18,7 +18,7 @@
 
 </div>
 
-<br><br><br>
+<br><br>
 <samp>Full Stack Developer passionate about Video Games, Game Development, and Web Applications</samp>
 <br><br>
 <samp>🎮 Game Dev & Full Stack enthusiast</samp><br>

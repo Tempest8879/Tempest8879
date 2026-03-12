@@ -14,9 +14,9 @@
 
 <img align="top" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=280&height=35&lines=%E2%9A%A1+About+Me" alt="About Me" />
 
-<br>
 
-<img align="right" width="35%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
+
+<br><img align="right" width="35%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
 
 </div>
 

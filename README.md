@@ -156,7 +156,7 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="10">
 
 <samp><b>When the code compiles on first try</b></samp>
 <br>
@@ -174,7 +174,7 @@
 <samp><i>AHHHHHHHHHHHH!!!</i></samp>
 
 </td>
-<td align="center" width="50">
+<td align="center" width="10">
 
 <samp><b>Finally fixing that bug</b></samp>
 <br>

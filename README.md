@@ -16,7 +16,7 @@
 
 <samp>Full Stack Developer passionate about Video Games, Game Development, and Web Applications</samp>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
+<img align="right" width="250" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/rikka-takanashi-takanashi-rikka.gif" />
 
 </div>
 

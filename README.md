@@ -28,7 +28,6 @@
 
 <br clear="both" />
 
-</div>
 
 <img src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/gradient-line.svg" width="100%" />
 

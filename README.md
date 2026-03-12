@@ -82,7 +82,7 @@
 
 <img align="top" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=5000&color=00F7FF&center=true&vCenter=true&repeat=true&width=350&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 
-<img align="center" width="26%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-pick-me.gif" />
+<img align="center" width="20%" src="https://raw.githubusercontent.com/Tempest8879/Tempest8879/main/assets/anime-pick-me.gif" />
 
 <table>
 <tr>
